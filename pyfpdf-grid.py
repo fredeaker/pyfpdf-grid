@@ -1,4 +1,4 @@
-# Filename: grid.py
+# Filename: pyfpdf-grid.py
 # Author: Fred Eaker (fredeaker.com | https://github.com/fredeaker)
 # Description: Creates a grid with upper-left coordinates for the purpose of
 # laying out components with PyPDF in a seperate script.
