@@ -8,6 +8,7 @@ Creates a grid with upper-left coordinates for the purpose of laying out compone
 No command-line arguments or input files have been implemented yet. However you, can modify the value of gridsize to set the size of the grid. For example:
 
 `gridsize = int(18)` = 0.25 inches (18 pt)
+
 `gridsize = int(36)` = 0.50 inches (72 pt)
 
 ## Dependencies
