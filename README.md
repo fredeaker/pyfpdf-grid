@@ -1,11 +1,11 @@
 # pyfpdf-grid
-I created this Python script to generate a grid with upper-left coordinates to support another project related to laying out components in a PDF with PyFPDF.
+I created this Python script to generate a grid with upper-left coordinates to support another project related to laying out components in a PDF with [pypdf](https://github.com/py-pdf/pypdf).
 
 ## Description
-Creates a grid with upper-left coordinates for the purpose of laying out components with PyPDF in a seperate script.
+Creates a grid with upper-left coordinates to lay out components with PyPDF in a separate script.
 
 ## Usage
-No command-line arguments or input files have been implemented yet. However you, can modify the value of gridsize to set the size of the grid. For example:
+No command-line arguments or input files have been implemented yet. However, you can modify the value of `gridsize` to set the size of the grid. For example:
 
 `gridsize = int(18)` = 0.25 inches (18 pt)
 
@@ -13,7 +13,7 @@ No command-line arguments or input files have been implemented yet. However you,
 
 ## Dependencies
 
-Requires PyFPDF (https://pypi.org/project/fpdf/)
+Requires [pypdf](https://github.com/py-pdf/pypdf).
 
 # Outputs
 
